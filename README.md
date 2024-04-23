@@ -1,6 +1,6 @@
 ### Log of Side Project Hell
 currently getting back into godot after messing around with pico8.
 
-[[test_link.md]]
+[This is a test link](../test_link.md)
 
 
