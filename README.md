@@ -25,5 +25,5 @@ within reason.
 authoring scene files directly is the better option, but it is good to have a handle on the data structures as well.
 
 #### Project Start
-[Godot Bullet-Heaven Survivors Repo](../GD_BH-S/doc/README.md)
+[Godot Bullet-Heaven Survivors Repo](../GD_BH-S/README.md)
 
